@@ -1,6 +1,6 @@
 
 server:
-    port: 8556
+    port: 8878
 spring:
     application:
         name: discovery-service
